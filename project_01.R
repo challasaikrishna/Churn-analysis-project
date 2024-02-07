@@ -1,7 +1,4 @@
 library(ggplot2)
-library(dplyr)
-library(tidyverse)
-library(treemap)
 library(treemapify)
 
 # Assuming total_churned is a continuous variable, you can summarize the counts
