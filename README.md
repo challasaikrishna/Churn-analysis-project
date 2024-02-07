@@ -1,1 +1,1 @@
-
+This project conducts a comprehensive analysis of customer churn in a telecommunications company. It includes visualizations of churn patterns across various customer attributes such as gender, senior citizenship, partner status, and service types. Statistical tests, like the independent two-sample t-test, are employed to assess the relationship between churn and financial metrics like monthly and total charges. Insights from this analysis can inform strategies to improve customer retention and reduce churn rates.
